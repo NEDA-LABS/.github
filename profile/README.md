@@ -13,11 +13,26 @@ NEDA Labs hosts several projects designed to drive financial inclusion, digital 
 ### 1. **Chatafisha – A Proof-of-Impact NFT Marketplace**
 Chatafisha is an NFT marketplace for tokenizing and validating impact projects. It allows users like NGOs, social enterprises, and grassroots organizations to mint "proof-of-impact" NFTs that represent real-world outcomes such as environmental conservation, community building, and economic upliftment.
 
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/neda-chata1.png" width="300" alt="Login page">
+  <p style="margin-left: 20px;"><strong>Login page</strong></p>
+</div>
+
+
+
 **Key Features:**
 - Tokenization of social and environmental impact.
 - Integration with eco-credits to help communities raise funds by showcasing their impact.
 - Liquidity pools and local stablecoin (pegged 1:1) for seamless financial transactions.
 - Community-based governance system to verify impact, ensuring transparency and accountability.
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/neda-chata2.png" width="300" alt="Key features">
+  <p style="margin-left: 20px;"><strong>Dashboard</strong></p>
+</div>
+
+
 
 ### 2. **NYOTA Community Currency**
 NYOTA is a community-based digital currency aimed at promoting local trade and economic resilience within marginalized communities. It acts as a medium of exchange, empowering community members to access goods, services, and credits without reliance on traditional banking systems.
@@ -31,11 +46,21 @@ NYOTA is a community-based digital currency aimed at promoting local trade and e
 ### 3. **Washika DAO – Decentralized Governance and Micro-Lending Protocol**
 Washika DAO is a decentralized governance, savings, and lending protocol designed for underserved communities like Village Community Banks (VICOBAs), SACCOs, and chamas. It decentralizes community governance and microlending, supporting financial inclusion through trustless, transparent systems.
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/neda-wadau.png" width="300" alt="Login page">
+  <p style="margin-left: 20px;"><strong>WashikaDao dashboard</strong></p>
+</div>
+
 **Key Features:**
 - Decentralized governance protocol for transparent decision-making.
 - P2P lending pools leveraging community-based credit assessments.
 - Automatic savings management via smart contracts.
 - Stablecoin integration for secure lending and borrowing.
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/neda-wadau2.png" width="300" alt="Login page">
+  <p style="margin-left: 20px;"><strong>Creating DAO and members joining</strong></p>
+</div>
 
 ---
 
@@ -91,7 +116,7 @@ We look forward to building inclusive and impactful solutions together!
 
 ## **License**
 
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
+Chatafisha organization is licenced which carries the Neda umbrella.
 
 ---
 
