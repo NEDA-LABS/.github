@@ -36,6 +36,8 @@ Chatafisha is an NFT marketplace for tokenizing and validating impact projects. 
 
 ### 2. **NYOTA Community Currency**
 NYOTA is a community-based digital currency aimed at promoting local trade and economic resilience within marginalized communities. It acts as a medium of exchange, empowering community members to access goods, services, and credits without reliance on traditional banking systems.
+![Trade with digital assets](https://github.com/user-attachments/assets/c67b28de-f178-4a00-8c52-f16bedd6df93)
+
 
 **Key Features:**
 - Locally circulating community currency for daily use.
