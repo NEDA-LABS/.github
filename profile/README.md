@@ -1,4 +1,4 @@
-<img width="1470" height="676" alt="Screenshot 2026-01-23 at 17 00 45" src="https://github.com/user-attachments/assets/722c9dca-52ef-47ab-8fdb-efab5448f7b2" />## NEDA Labs
+## NEDA Labs
 Building digital financial solutions for emerging economies
 NEDA Labs is a Tanzanian-founded technology company focused on creating inclusive, scalable digital financial infrastructure for underserved markets in Africa and beyond. We design tools that empower individuals, small businesses, and financial institutions by bridging traditional finance with modern blockchain and payment technologies.
 Our Mission
