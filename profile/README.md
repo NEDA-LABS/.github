@@ -1,4 +1,4 @@
-## NEDA Labs
+## National Electronic Digital Assets - NEDALABS
 <img width="1470" height="616" alt="Screenshot 2026-01-23 at 17 00 09" src="https://github.com/user-attachments/assets/6bc152ca-0fa3-4b22-a858-aa25869c71b8" />
 
 Building digital financial solutions for emerging economies
