@@ -4,6 +4,7 @@
 
 
 
+
 Building digital financial solutions for emerging economies
 NEDA Labs is a Tanzanian-founded technology company focused on creating inclusive, scalable digital financial infrastructure for underserved markets in Africa and beyond. We design tools that empower individuals, small businesses, and financial institutions by bridging traditional finance with modern blockchain and payment technologies.
 Our Mission
