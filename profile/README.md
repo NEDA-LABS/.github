@@ -18,7 +18,6 @@ Core Products
 ## NEDApay
 
 NEDApay is our flagship product: a non-custodial payment API built on Base L2 that connects stablecoins (USDC, USDT) with 50+ local fiat rails (M-Pesa, Tigo Pesa, Airtel Money, CRDB, NMB, Equity Bank, GCB, etc.) across Tanzania, Kenya, Uganda, Ghana, Nigeria, Malawi, DRC, and Zambia.
-<img width="865" height="1080" alt="WhatsApp Image 2026-04-13 at 13 31 20" src="https://github.com/user-attachments/assets/27efb253-3f62-4d8f-ba9a-357373f87d73" />
 
 Key features:
 
@@ -27,12 +26,13 @@ Instant on/off-ramps (TZS → USDC → RMB in 2–3 seconds)
 No pre-funding or custody required — we aggregate liquidity
 Live FX rates + custom fee parameters for partners
 Agent-friendly UX + bank/PSP integrations
+
  
 
 
 NEDApay solves the pain of high-cost, slow, and volatile cross-border payments for informal SMEs importing from China/Dubai — a $1B+ annual corridor in Tanzania alone.
 Other Initiatives
-
+<img width="865" height="1080" alt="WhatsApp Image 2026-04-13 at 13 31 20" src="https://github.com/user-attachments/assets/27efb253-3f62-4d8f-ba9a-357373f87d73" />
 ## nTZS — Regulated local stablecoin 
 
 
