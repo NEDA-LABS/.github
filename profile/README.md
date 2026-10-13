@@ -1,6 +1,7 @@
+
 ## National Electronic Digital Assets - NEDALABS
 
-<img width="1470" height="616" alt="Screenshot 2026-01-23 at 17 00 09" src="https://github.com/user-attachments/assets/6bc152ca-0fa3-4b22-a858-aa25869c71b8" />
+<img width="2560" height="1024" alt="WhatsApp Image 2026-03-05 at 10 56 36" src="https://github.com/user-attachments/assets/9057edfc-7fa4-466d-ae38-2fd147ae9591" />
 
 
 
@@ -8,6 +9,7 @@
 Building digital financial solutions for emerging economies
 NEDA Labs is a Tanzanian-founded technology company focused on creating inclusive, scalable digital financial infrastructure for underserved markets in Africa and beyond. We design tools that empower individuals, small businesses, and financial institutions by bridging traditional finance with modern blockchain and payment technologies.
 Our Mission
+
 To make cross-border payments, remittances, and financial access fast, affordable, and reliable for the next billion users in emerging economies — starting with Tanzania and East Africa.
 Core Products
 
@@ -16,7 +18,7 @@ Core Products
 ## NEDApay
 
 NEDApay is our flagship product: a non-custodial payment API built on Base L2 that connects stablecoins (USDC, USDT) with 50+ local fiat rails (M-Pesa, Tigo Pesa, Airtel Money, CRDB, NMB, Equity Bank, GCB, etc.) across Tanzania, Kenya, Uganda, Ghana, Nigeria, Malawi, DRC, and Zambia.
-<img width="1470" height="616" alt="Screenshot 2026-01-23 at 16 59 39" src="https://github.com/user-attachments/assets/e345982b-1ebc-458c-88c2-bd7b80cf08a3" />
+<img width="865" height="1080" alt="WhatsApp Image 2026-04-13 at 13 31 20" src="https://github.com/user-attachments/assets/27efb253-3f62-4d8f-ba9a-357373f87d73" />
 
 Key features:
 
@@ -25,7 +27,7 @@ Instant on/off-ramps (TZS → USDC → RMB in 2–3 seconds)
 No pre-funding or custody required — we aggregate liquidity
 Live FX rates + custom fee parameters for partners
 Agent-friendly UX + bank/PSP integrations
- <img width="1470" height="676" alt="Screenshot 2026-01-23 at 17 00 45" src="https://github.com/user-attachments/assets/b8608ede-a4f6-48a4-ae02-b39bc600c6ef" />
+ 
 
 
 NEDApay solves the pain of high-cost, slow, and volatile cross-border payments for informal SMEs importing from China/Dubai — a $1B+ annual corridor in Tanzania alone.
@@ -33,10 +35,11 @@ Other Initiatives
 
 ## nTZS — Regulated local stablecoin 
 
-<img width="1470" height="616" alt="Screenshot 2026-01-23 at 16 59 00" src="https://github.com/user-attachments/assets/274cdde6-28b5-42b6-8df5-f8b4d4246292" />
+
 (1:1 TZS-backed) for fast, stable domestic and cross-border use. Convert verified deposits into Digital assets and manage your holdings through a modern payments and settlement layer designed for the digital economy.
 A streamlined issuance experience. Simple steps for users, strong controls for operators, and clear oversight for regulators. Data verification & onboarding tools for underserved communities.
 Community currency pilots to test real-world stablecoin adoption.
+<img width="1026" height="1280" alt="WhatsApp Image 2026-03-27 at 11 51 56" src="https://github.com/user-attachments/assets/f84735ad-da2d-44f5-a6fa-3db5f0872a9f" />
 
 
 ## Tech Stack
@@ -46,6 +49,7 @@ Stablecoins: USDC/USDT + nTZS (regulated)
 Fiat rails: M-Pesa, Tigo Pesa, Airtel Money, MTN MoMo, CRDB, NMB, Equity, GCB, Thunes, Selcom, etc.
 Infrastructure: Node.js, Solidity smart contracts, Chainlink oracles, Chainalysis KYT, Smile ID (KYC), Redis/PostgreSQL
 
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-14 at 08 54 05" src="https://github.com/user-attachments/assets/8749ed46-7a67-48a2-8587-4eafb0182037" />
 
 
 Why Emerging Economies?
